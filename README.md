@@ -30,7 +30,7 @@ This project uses the public **MovieLens dataset** available at:
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 ```bash
 git clone https://github.com/<your-username>/UserBasedCF-Spark.git
 cd UserBasedCF-Spark
