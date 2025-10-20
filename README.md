@@ -1,8 +1,7 @@
 # 🎬 Movie-Recommendation-System
 
 ## Overview
-This project implements a **User-Based Collaborative Filtering (UBCF)** Recommendation System using **Apache Spark (PySpark)**.  
-It predicts movie ratings for users and recommends top movies based on **user–user similarity** computed via the **Pearson correlation coefficient**.
+This project implements a **User-Based Collaborative Filtering (UBCF)** Recommendation System using **Apache Spark (PySpark)**. It predicts movie ratings for users and recommends top movies based on **user–user similarity** computed via the **Pearson correlation coefficient**.
 
 ---
 
