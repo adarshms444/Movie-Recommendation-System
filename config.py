@@ -1,17 +1,17 @@
 # --- Configuration File ---
 
 # Target user for recommendations
-[cite_start]TARGET_USER_ID = 40 [cite: 140, 249]
+[cite_start]TARGET_USER_ID = 40 
 
 # --- Similarity Step Config ---
 # Minimum common movies rated by two users to be considered similar
-[cite_start]MIN_COMMON_USERS = 3 [cite: 141]
+[cite_start]MIN_COMMON_USERS = 3 
 
 # --- Prediction Step Config ---
-[cite_start]NUM_RECOMMENDATIONS = 5 [cite: 250]
-[cite_start]MIN_CONTRIBUTORS = 5 [cite: 251]
-[cite_start]MIN_RATING = 0.5 [cite: 252]
-[cite_start]MAX_RATING = 5.0 [cite: 253]
+[cite_start]NUM_RECOMMENDATIONS = 5
+[cite_start]MIN_CONTRIBUTORS = 20
+[cite_start]MIN_RATING = 0.5 
+[cite_start]MAX_RATING = 5.0 
 
 # --- Data Paths ---
 [cite_start]DATASET_REPO = "https://github.com/sankalpjain99/Movie-recommendation-system.git"
